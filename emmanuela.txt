@@ -1,1 +1,9 @@
 ola
+td bem
+git --no-pager diff 
+git reset HEAD emmanuela.txt
+
+para modificacoes:
+git add emmanuela.txt
+git commit -m 'new modificacoes'
+git push
