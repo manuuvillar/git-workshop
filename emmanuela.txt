@@ -12,4 +12,4 @@ criar branch:
 git branch nome
 git checkout
 
-ddd
+git push origin manu_branch #para por no git
