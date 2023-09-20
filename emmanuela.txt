@@ -7,4 +7,7 @@ para modificacoes:
 git add emmanuela.txt
 git commit -m 'new modificacoes'
 git push
-dygyfeyt
+
+criar branch:
+git branch nome
+git checkout
